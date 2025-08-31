@@ -1,0 +1,2 @@
+-- TodoApp Database Setup
+-- Run this file in your MySQL database to create the required tables
