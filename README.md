@@ -4,7 +4,7 @@ A modern, responsive Todo application built with PHP, MySQL, and Tailwind CSS fe
 
 ## ✨ Features
 
-### 🎨 **Beautiful Design**
+### 🎨 **Design**
 - **Full HD Background**: Stunning gradient background with animated floating elements
 - **Glassmorphism**: Modern glass-like card designs with backdrop blur effects
 - **Responsive Layout**: Works perfectly on desktop, tablet, and mobile devices
@@ -44,7 +44,7 @@ A modern, responsive Todo application built with PHP, MySQL, and Tailwind CSS fe
 
 ### Step 1: Clone or Download
 ```bash
-git clone <repository-url>
+git clone todoapp
 cd todo-app
 ```
 
@@ -203,4 +203,5 @@ For support and questions:
 **Developed by 0xCaptainFahim 👑**
 
 *Transform your task management with this beautiful, feature-rich Todo application!*
+
 
