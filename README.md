@@ -1,4 +1,4 @@
-# 0xCaptainFahim 👑 TodoApp - Beautiful PHP Todo Application
+# 0xCaptainFahim 👑 TodoApp - PHP Todo Application
 
 A modern, responsive Todo application built with PHP, MySQL, and Tailwind CSS featuring a beautiful full HD background design with glassmorphism effects.
 
@@ -203,3 +203,4 @@ For support and questions:
 **Developed by 0xCaptainFahim 👑**
 
 *Transform your task management with this beautiful, feature-rich Todo application!*
+
